@@ -1,0 +1,65 @@
+body {
+    height: 100%;
+    background-image: url("http://getwallpapers.com/wallpaper/full/6/e/b/646614.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+h1 {
+    text-align: center;
+    color: rgb(76, 50, 192);
+    font-size: 60px;
+    font-family: Georgia, serif;
+    background-color: rgb(255, 255, 255,0.6);
+    text-shadow:2px 2px 5px rgb(106, 110, 168);
+    border-radius: 7px;
+    text-shadow: cadetblue;
+    border-width: medium;
+    border-spacing: initial;
+}
+h2{ text-align: center;
+    color: rgb(16, 82, 206);
+    font-family:Georgia, serif;
+    font-style: italic;}
+
+
+text{   font-family:Georgia, serif;
+        color:blue;
+        font-size: medium;
+    }
+ .middle {
+        border-radius: 7px;
+        border-style: outset;
+        background-color: rgb(255, 255, 255,0.6);
+
+ }
+
+.image1 {
+    image-orientation: inherit; border-image: stretch;
+    border-style: outset;}
+.image2 {
+    max width: 1in; max height: 1in;
+    border-style: outset;
+}
+.create {
+background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Emoji_u1f4a9.svg/1200px-Emoji_u1f4a9.svg.png');
+background-repeat: no-repeat;
+padding-left: 30px;
+}
+p5 {
+    text-align: center;
+    font-family:Georgia, serif;
+    text-shadow: snow;
+    color: snow;
+    border-style: double;
+    object-position: center;
+    background-color: tomato;
+}
+
+
+
+
+ 
