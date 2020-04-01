@@ -1,10 +1,10 @@
 <link rel="stylesheet" href="main.css"/>
 <html>
-    <head>
+   
      <h1>Big Bae</h1>
     <div class="middle">
      <h2> A website made made by lil sweet</h2>
-    </head>
+   
     <body>
     <text>
         <p1>BB is the best bb that ever was!</p1>
