@@ -39,7 +39,7 @@ text{   font-family:Georgia, serif;
     image-orientation: inherit; border-image: stretch;
     border-style: outset;}
 .image2 {
-    max width: 1in; max height: 1in;
+    max-width: 1in; max-height: 1in;
     border-style: outset;
 }
 .create {
